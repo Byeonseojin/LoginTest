@@ -1,4 +1,4 @@
-package org.example.logintest.config.controller;
+package org.example.logintest.controller;
 
 import lombok.extern.log4j.Log4j2;
 import org.springframework.stereotype.Controller;
